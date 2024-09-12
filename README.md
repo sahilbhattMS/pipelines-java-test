@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/sahilbhatt-test/first-app-test/_apis/build/status%2FsahilbhattMS.pipelines-java-test?branchName=main)](https://dev.azure.com/sahilbhatt-test/first-app-test/_build/latest?definitionId=1&branchName=main)  
 
 # Contributing
 
